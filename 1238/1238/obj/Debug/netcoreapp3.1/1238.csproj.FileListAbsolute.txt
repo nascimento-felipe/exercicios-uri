@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\1238\1238\bin\Debug\netcoreapp3.1\1238.exe
+C:\Users\Pichau\source\repos\1238\1238\bin\Debug\netcoreapp3.1\1238.deps.json
+C:\Users\Pichau\source\repos\1238\1238\bin\Debug\netcoreapp3.1\1238.runtimeconfig.json
+C:\Users\Pichau\source\repos\1238\1238\bin\Debug\netcoreapp3.1\1238.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\1238\1238\bin\Debug\netcoreapp3.1\1238.dll
+C:\Users\Pichau\source\repos\1238\1238\bin\Debug\netcoreapp3.1\1238.pdb
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.dll
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.pdb
+C:\Users\Pichau\source\repos\1238\1238\obj\Debug\netcoreapp3.1\1238.genruntimeconfig.cache

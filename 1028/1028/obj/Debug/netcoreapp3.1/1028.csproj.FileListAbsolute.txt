@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\1028\1028\bin\Debug\netcoreapp3.1\1028.exe
+C:\Users\Pichau\source\repos\1028\1028\bin\Debug\netcoreapp3.1\1028.deps.json
+C:\Users\Pichau\source\repos\1028\1028\bin\Debug\netcoreapp3.1\1028.runtimeconfig.json
+C:\Users\Pichau\source\repos\1028\1028\bin\Debug\netcoreapp3.1\1028.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\1028\1028\bin\Debug\netcoreapp3.1\1028.dll
+C:\Users\Pichau\source\repos\1028\1028\bin\Debug\netcoreapp3.1\1028.pdb
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.dll
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.pdb
+C:\Users\Pichau\source\repos\1028\1028\obj\Debug\netcoreapp3.1\1028.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\1837\1837\bin\Debug\netcoreapp3.1\1837.exe
+C:\Users\Pichau\source\repos\1837\1837\bin\Debug\netcoreapp3.1\1837.deps.json
+C:\Users\Pichau\source\repos\1837\1837\bin\Debug\netcoreapp3.1\1837.runtimeconfig.json
+C:\Users\Pichau\source\repos\1837\1837\bin\Debug\netcoreapp3.1\1837.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\1837\1837\bin\Debug\netcoreapp3.1\1837.dll
+C:\Users\Pichau\source\repos\1837\1837\bin\Debug\netcoreapp3.1\1837.pdb
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.dll
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.pdb
+C:\Users\Pichau\source\repos\1837\1837\obj\Debug\netcoreapp3.1\1837.genruntimeconfig.cache
