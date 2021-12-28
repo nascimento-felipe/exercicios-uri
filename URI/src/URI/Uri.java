@@ -10,7 +10,7 @@ import java.io.IOException;
 public class Uri {
 
     public static void main(String[] args) throws IOException {
-        Ex1037 ex = new Ex1037();
+        Ex1045 ex = new Ex1045();
         
         ex.MainMethod();
         
